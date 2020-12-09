@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.trust.security</groupId>
+  <artifactId>TrustSecurity</artifactId>
+  <versioning>
+    <release>1.1.0</release>
+    <versions>
+      <version>1.0.18</version>
+      <version>1.0.19</version>
+      <version>1.0.20</version>
+      <version>1.0.21</version>
+      <version>1.0.22</version>
+      <version>1.0.23</version>
+      <version>1.0.24</version>
+      <version>1.0.25</version>
+      <version>1.1.0</version>
+    </versions>
+    <lastUpdated>20201015165434</lastUpdated>
+  </versioning>
+</metadata>
